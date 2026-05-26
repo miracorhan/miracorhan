@@ -6,7 +6,7 @@
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%E2%9A%A1+Building+high-performance+enterprise+.NET+systems;%F0%9F%94%8C+Precision+in+hardware+%2B+Scalability+in+software;%F0%9F%8C%90+Based+in+the+Netherlands+%E2%96%AA+BSN+holder" alt="Typing SVG" />
-</a>
+</a> 
 
 <br/>
 
