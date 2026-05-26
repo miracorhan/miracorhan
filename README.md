@@ -81,7 +81,7 @@ An e-commerce product customizer integrating with the ETSY API.
 - 🏠 **Portfolio Website**: [miracorhan.com.tr](http://miracorhan.com.tr)
 - 📸 **Instagram**: [@mirac.orhan_](https://www.instagram.com/mirac.orhan_/)
 
----
+--- 
 <p align="center">
   <i>"Combining the precision of electronics with the scalability of modern software."</i>
 </p>
