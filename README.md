@@ -6,12 +6,12 @@
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%E2%9A%A1+Building+high-performance+enterprise+.NET+systems;%F0%9F%94%8C+Precision+in+hardware+%2B+Scalability+in+software;%F0%9F%8C%90+Based+in+the+Netherlands+%E2%96%AA+BSN+holder" alt="Typing SVG" />
-</a> 
+</a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="http://miracorhan.com.tr"><img src="https://img.shields.io/badge/%F0%9F%8C%90_miracorhan.com.tr-512BD4?style=for-the-badge&logoColor=white" /></a>
+<a href="https://miracorhan.github.io/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_miracorhan.github.io-512BD4?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/miracorhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
@@ -24,7 +24,18 @@
 <!-- QUICK INFO CARDS -->
 <img src="https://img.shields.io/badge/📍_Netherlands_·_BSN_Holder-2d3436?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🏢_Mentor_@_We'RHERE.nl-6c5ce7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🗣️_EN_·_NL_·_TR-00b894?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🗣️_EN_·_TR_·_NL_·_DE-00b894?style=for-the-badge" />
+
+<br/><br/>
+
+<!-- MULTILINGUAL PORTFOLIO LINKS -->
+<p align="center">
+  <strong>🌐 View My Interactive Portfolio in:</strong><br/>
+  <a href="https://miracorhan.github.io/?lang=en">🇬🇧 English</a> &bull;
+  <a href="https://miracorhan.github.io/?lang=tr">🇹🇷 Türkçe</a> &bull;
+  <a href="https://miracorhan.github.io/?lang=nl">🇳🇱 Nederlands</a> &bull;
+  <a href="https://miracorhan.github.io/?lang=de">🇩🇪 Deutsch</a>
+</p>
 
 </div>
 
@@ -47,13 +58,21 @@ public class MiracOrhan
 {
     public string Title => ".NET Backend Developer & Electronic Technician";
     public string Location => "Netherlands (BSN & work permit available) 🇳🇱";
-    public int ExperienceYears => 8; 
-    public string CoreSkills => "Clean Architecture, IoT & Embedded, Microservices, ERP Integrations";
+    public int TechInterestSince => 2010;
+    public int ProfessionalSoftwareExpYears => 8;
+    public int MarineElectronicsExpYears => 6;
+    public string CoreSkills => "Clean Architecture, IoT & Embedded, Microservices, ERP Integrations, PCB Design";
     public string Certification => "Microsoft Certified: Fabric Data Engineer Associate (DP-700)";
     public string VolunteerWork => "Python & SQL Mentor @ We'RHERE.nl";
     public string[] CoreStack => new[] { ".NET 9", "ASP.NET Core", "Entity Framework Core", "SQL Server", "Docker" };
 }
 ```
+
+### 📖 My Story
+
+I started to get interested in software and electronics in 2010. Over my career, I spent about **6 years** working on electronics and server systems in the marine sector, managing tactical radar, radio, and fire control systems. Since 2019, I have been building high-scale enterprise systems, specializing in **C#, C, Python, SQL, ASP.NET Core, and JavaScript** with a strong focus on production and ERP-based software. 
+
+Currently, I am working in the software sector in the **Netherlands**, leveraging my unique background to combine the physical precision of electronics with the scalability and clean architecture of modern backend software.
 
 <div align="center">
 
@@ -144,6 +163,10 @@ public class MiracOrhan
 
 ### 🏢 Selected Enterprise & Municipal Systems (Yirmibes Software, 2020 - 2024)
 
+<details>
+<summary><b>💼 Click to view Enterprise Systems</b></summary>
+<br/>
+
 #### 🏭 Yirmibes Web ERP Software
 *Modular enterprise resource planning (ERP) system for trade and manufacturing.*
 - **Modules**: Shipped modules for purchasing, sales, finance, exports, inventory management, production control, and B2B platforms.
@@ -174,9 +197,15 @@ public class MiracOrhan
 - **Traffic**: Scaled to process 1,000+ support requests per month with real-time notifications.
 - *Tech stack: .NET 7 MVC, Web API, SignalR, CookieAuth.*
 
+</details>
+
 ---
 
 ### 🔌 Hardware, IoT & Embedded Projects
+
+<details>
+<summary><b>📟 Click to view Hardware & IoT Projects</b></summary>
+<br/>
 
 #### 🚗 License Plate Recognition (LPR) Barrier Controller (2021)
 *Autonomous parking control system utilizing AI computer vision and embedded hardware.*
@@ -192,6 +221,8 @@ public class MiracOrhan
 *Petty Officer Electronic service managing tactical radar, radio, and fire control systems.*
 - **Server Admin**: Maintained and configured 16+ Linux servers in high-availability, high-security operational environments.
 
+</details>
+
 <br/>
 
 <!-- DIVIDER -->
@@ -204,16 +235,25 @@ public class MiracOrhan
 *(Note: Stats will display live once the contribution graph is set to public)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miracorhan&show_icons=true&theme=tokyonight&count_private=true" alt="Mirac's GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=miracorhan&show_icons=true&theme=tokyonight&count_private=true" alt="Mirac's GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracorhan&layout=compact&theme=tokyonight" alt="Mirac's Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=miracorhan&layout=compact&theme=tokyonight" alt="Mirac's Top Languages" height="180" />
 </p>
 
 <br/>
 
 <!-- CONNECT -->
 ## 🤝 Connect with Me
-- 📫 **Email**: [mirac.orhan@gmail.com](mailto:mirac.orhan@gmail.com)
+
+<p align="center">
+  <a href="mailto:mirac.orhan@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Mirac%2C%0A%0AI%20visited%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0A%0ABest%20regards%2C%0A%5BYour%20Name%5D"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miracorhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://miracorhan.github.io/"><img src="https://img.shields.io/badge/Interactive_Portfolio-2575fc?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+- 📬 **Email**: [mirac.orhan@gmail.com](mailto:mirac.orhan@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/miracorhan](https://www.linkedin.com/in/miracorhan)
-- 🏠 **Portfolio Website**: [miracorhan.com.tr](http://miracorhan.com.tr)
+- 🏠 **Interactive Portfolio**: [miracorhan.github.io](https://miracorhan.github.io/)
 - 📸 **Instagram**: [@mirac.orhan_](https://www.instagram.com/mirac.orhan_/)
